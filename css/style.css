@@ -1,0 +1,12 @@
+.topNav{
+    list-style: none;
+}
+
+.topNav > li{
+    padding: 5px 10px;
+    display: inline;
+}
+
+.topNav > li.active{
+    color: purple;
+}
